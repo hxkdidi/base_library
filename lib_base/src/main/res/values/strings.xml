@@ -1,0 +1,10 @@
+<resources>
+    <string name="net_error">网络错误</string>
+    <string name="fail_upload_run_record_to_save">上传失败，数据已保存到本地，您可以稍后上传</string>
+    <string name="no_network">网络已断开</string>
+    <string name="are_you_sure_submit_test_paper">你确定要交卷吗？</string>
+    <string name="please_wait">请稍后</string>
+    <string name="cancel">取消</string>
+    <string name="ensure">确定</string>
+    <string name="tip">提示</string>
+</resources>

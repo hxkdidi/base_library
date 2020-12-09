@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="transparent_78">#c7000000</color>
+    <color name="transparent_8">#8000</color>
+    <color name="theme_color">#18c183</color>
+    <color name="black333">#333</color>
+    <color name="transparent">#0fff</color>
+    <color name="theme_color_press">#18c183</color>
+    <color name="separator_divider">#f3f3f3</color>
+    <color name="black999">#999999</color>
+    <color name="divider_color_f3f3f3">#f3f3f3</color>
+    <color name="theme_color_2918c183">#2918c183</color>
+    <color name="grey_fafafa">#fafafa</color>
+    <color name="grey_fafafc">#fafafc</color>
+</resources>
